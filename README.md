@@ -1,6 +1,7 @@
 # AzureWebAppLimitAccessAD
 
 
+0. Create and example of a WebApp using the powershell script attached in this repo: https://github.com/internetgdl/AzureWebAppLimitAccessAD
 
 1.  Sign in to the Azure portal ([https://portal.azure.com](https://portal.azure.com/)) with your Azure account.
     
